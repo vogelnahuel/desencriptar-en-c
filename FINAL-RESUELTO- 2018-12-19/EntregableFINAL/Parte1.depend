@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1545262103 source:c:\users\laboratorios\desktop\prog-1110\entregablefinal\main.c
+	"main.h"
+
+1545259766 c:\users\laboratorios\desktop\prog-1110\entregablefinal\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1545265304 c:\users\laboratorios\desktop\prog-1110\entregablefinal\funciones.h
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1545265843 source:c:\users\laboratorios\desktop\prog-1110\entregablefinal\funciones.c
+	"funciones.h"
+
+1564176736 source:c:\users\big-bang-solutions\documents\2019-c1\parciales\nueva carpeta (5)\final 2018-12-19\entregablefinal\main.c
+	"main.h"
+
+1545259766 c:\users\big-bang-solutions\documents\2019-c1\parciales\nueva carpeta (5)\final 2018-12-19\entregablefinal\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1545265304 c:\users\big-bang-solutions\documents\2019-c1\parciales\nueva carpeta (5)\final 2018-12-19\entregablefinal\funciones.h
+	"main.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1564183016 source:c:\users\big-bang-solutions\documents\2019-c1\parciales\nueva carpeta (5)\final 2018-12-19\entregablefinal\funciones.c
+	"funciones.h"
+

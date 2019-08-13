@@ -1,0 +1,81 @@
+01/12/2015 23:15:41,005: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:41,015: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129969/4' -o s
+01/12/2015 23:15:41,017: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,019: Login successful
+01/12/2015 23:15:41,027: Querying for application group 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,039: Query successful
+01/12/2015 23:15:41,045: Searching for Documents in 'Facturas' ...
+01/12/2015 23:15:41,051: Querying database with SQL string 'where factura = '70002-00129969/4''
+01/12/2015 23:15:41,055: Search successful
+01/12/2015 23:15:41,061: 1 Document(s) have been queried. Retrieving 1 Document(s).
+01/12/2015 23:15:41,067: (1): Retrieving Document for userid 'admin' ...
+01/12/2015 23:15:41,081: Document successfully retrieved and stored in file 'I:\MigraOnDemand\FAC-2003-ABR-MesEntero\s.0.Facturas.Facturas.out'
+01/12/2015 23:15:41,083: arsdoc completed.
+01/12/2015 23:15:41,119: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:41,121: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129970/2' -o s
+01/12/2015 23:15:41,123: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,133: Login successful
+01/12/2015 23:15:41,137: Querying for application group 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,143: Query successful
+01/12/2015 23:15:41,153: Searching for Documents in 'Facturas' ...
+01/12/2015 23:15:41,159: Querying database with SQL string 'where factura = '70002-00129970/2''
+01/12/2015 23:15:41,163: Search successful
+01/12/2015 23:15:41,169: 1 Document(s) have been queried. Retrieving 1 Document(s).
+01/12/2015 23:15:41,179: (1): Retrieving Document for userid 'admin' ...
+01/12/2015 23:15:41,197: Document successfully retrieved and stored in file 'I:\MigraOnDemand\FAC-2003-ABR-MesEntero\s.0.Facturas.Facturas.out'
+01/12/2015 23:15:41,201: arsdoc completed.
+01/12/2015 23:15:41,243: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:41,249: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:15:41,261: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,263: Login successful
+01/12/2015 23:15:41,271: Querying for application group 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:15:41,277: Query successful
+01/12/2015 23:15:41,289: Searching for Documents in 'Facturas' ...
+01/12/2015 23:15:41,299: Querying database with SQL string 'where factura = '70002-00129971/7''
+01/12/2015 23:15:41,305: Search unsuccessful
+01/12/2015 23:15:41,313: Connection cannot be established for the ARCHIVE server
+01/12/2015 23:15:41,317: arsdoc completed.
+01/12/2015 23:15:46,327: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:46,329: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:15:46,339: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:46,347: Login unsuccessful
+01/12/2015 23:15:46,355: Connection cannot be established for the ARCHIVE server
+01/12/2015 23:15:46,363: arsdoc completed.
+01/12/2015 23:15:56,387: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:15:56,399: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:15:56,405: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:15:56,409: Login unsuccessful
+01/12/2015 23:15:56,421: Connection cannot be established for the ARCHIVE server
+01/12/2015 23:15:56,425: arsdoc completed.
+01/12/2015 23:16:16,443: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:16:16,449: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:16:16,455: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:16:16,459: Login unsuccessful
+01/12/2015 23:16:16,461: Connection cannot be established for the ARCHIVE server
+01/12/2015 23:16:16,465: arsdoc completed.
+01/12/2015 23:16:56,485: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:16:56,493: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129971/7' -o s
+01/12/2015 23:16:56,501: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:16:57,503: Login successful
+01/12/2015 23:16:57,505: Querying for application group 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:16:57,517: Query successful
+01/12/2015 23:16:57,525: Searching for Documents in 'Facturas' ...
+01/12/2015 23:16:57,533: Querying database with SQL string 'where factura = '70002-00129971/7''
+01/12/2015 23:16:57,537: Search successful
+01/12/2015 23:16:57,543: 1 Document(s) have been queried. Retrieving 1 Document(s).
+01/12/2015 23:16:57,553: (1): Retrieving Document for userid 'admin' ...
+01/12/2015 23:16:57,557: Document successfully retrieved and stored in file 'I:\MigraOnDemand\FAC-2003-ABR-MesEntero\s.0.Facturas.Facturas.out'
+01/12/2015 23:16:57,565: arsdoc completed.
+01/12/2015 23:16:57,593: Starting arsdoc.  Version:  8.4.0.3
+01/12/2015 23:16:57,599: arsdoc get -h ARCHIVE -u admin -G Facturas -d I:\MigraOnDemand\FAC-2003-ABR-MesEntero -g -N -c -P -v -i where factura = '70002-00129972/7' -o s
+01/12/2015 23:16:57,611: Attempting login for userid 'admin' on server 'ARCHIVE' ...
+01/12/2015 23:16:57,621: Login successful
+01/12/2015 23:16:57,627: Querying for application group 'Facturas' on server 'ARCHIVE' ...
+01/12/2015 23:16:57,631: Query successful
+01/12/2015 23:16:57,643: Searching for Documents in 'Facturas' ...
+01/12/2015 23:16:57,655: Querying database with SQL string 'where factura = '70002-00129972/7''
+01/12/2015 23:16:57,663: Search successful
+01/12/2015 23:16:57,675: 1 Document(s) have been queried. Retrieving 1 Document(s).
+01/12/2015 23:16:57,677: (1): Retrieving Document for userid 'admin' ...
+01/12/2015 23:16:57,689: Document successfully retrieved and stored in file 'I:\MigraOnDemand\FAC-2003-ABR-MesEntero\s.0.Facturas.Facturas.out'
+01/12/2015 23:16:57,693: arsdoc completed.
